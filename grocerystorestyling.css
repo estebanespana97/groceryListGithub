@@ -1,0 +1,55 @@
+header h1{
+    text-align:center;
+    color:#015d82
+}
+
+.testing{
+    display: inline-block;
+    overflow: hidden;  
+}
+
+section{
+    background-color: whitesmoke;
+    height: 500px;
+}
+
+.titlediv{
+    color:#015d82;
+    background-color:#0078a8;
+    text-align:center;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+}
+
+.subSection{
+    color: #015d82;
+    background-color: #FFFFED;
+    border: 1px solid black;
+    height: 200px;
+    width: 20%;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+}
+
+aside{
+    margin: 5px;
+    padding: 10px;
+    height: 200px;
+    max-width: auto;
+    float: left;
+}
+
+ul, ol{
+    color: black
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: black;
+    text-decoration: underline;
+}
